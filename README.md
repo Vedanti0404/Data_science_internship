@@ -21,3 +21,9 @@
 ## Confusion Matrix, Accuracy, Precision, Recall, F1-score, ROC curve, AUC score, Mean Squared Error, Root Mean Squared Error, R-squared: https://medium.com/analytics-vidhya/machine-learning-metrics-in-simple-terms-d58a9c85f9f6
 ## Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, Ridge Regression, Lasso Regression, ElasticNet Regression: https://www.javatpoint.com/regression-analysis-in-machine-learning
 ## Logistic Regression, Naive Bayes, k-Nearest Neighbors, Decision Trees, Random Forest, Support Vector Machines: https://www.analyticsvidhya.com/blog/2021/05/5-classification-algorithms-you-should-know-introductory-guide/
+## K-Means Clustering, Hierarchical Clustering, DBSCAN, Gaussian Mixture Models: https://www.freecodecamp.org/news/8-clustering-algorithms-in-machine-learning-that-all-data-scientists-should-know/
+## Bagging, Boosting, Stacking, Random Forest, Gradient Boosting: https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205?gi=140bd07429dc
+## L1 Regularization, L2 Regularization, ElasticNet Regularization: https://www.analyticsvidhya.com/blog/2022/08/regularization-in-machine-learning/
+## L1 Regularization, L2 Regularization, ElasticNet Regularization: https://www.javatpoint.com/regularization-in-machine-learning
+
+
